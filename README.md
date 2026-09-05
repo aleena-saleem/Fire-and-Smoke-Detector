@@ -47,10 +47,6 @@ The confusion matrix reveals a clear and consistent pattern:
 
 In other words, the model's class-discrimination ability (Fire vs. Smoke) is solid, but its object-vs-background boundary is comparatively weak.
 
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ## Repository Structure
 
